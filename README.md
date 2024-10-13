@@ -1,22 +1,15 @@
-# 1510-202210-A4-Text-adventure-game
+DragonSlayer
 
-Every program needs a README.md
-
-This is written in markdown. Read about markdown here: [markdowncheatsheet](https://www.markdownguide.org/cheat-sheet/)
-
-## Your name:
-Sung Hyun Hong
-
-## Your student number:
-A01232685
-
-## Your GitHub account:
-Jesper-SH-Hong
-
-## Any important comments you'd like to make about your work:
+A text-based roleplaying game in Python, featuring four distinct character classes. 
+Players navigate through a series of random encounters, battling monsters as they move across a map towards the final boss, the Dragon. 
+Each character class brings unique abilities, adding strategic depth to the gameplay. 
+The project also includes comprehensive unit tests to ensure functionality and robustness. 
+Be the hero, fight your way to the Dragon, and claim victory!
 
 
-| Requirement List                                  | Line #     |
+
+
+| Python Elements                                   | Line #     |
 |---------------------------------------------------|------------|
 | Tuple                                             | 130, 133   |
 | List                                              | 359        |
@@ -27,4 +20,4 @@ Jesper-SH-Hong
 | the range function                                | 318, 320   |
 | itertools module                                  | 952        |
 | the enumerate function                            | 178, 477   |
-| filter or map function                            | 956        |
+| filter/map function                               | 956        |
